@@ -1,4 +1,5 @@
 import "../styles/styles.css";
+import "@picocss/pico/css/pico.min.css";
 // Add imports here
 
 console.log("What?");
