@@ -1,28 +1,46 @@
 @charset "UTF-8";/* Add any CSS styles or rules here */
 
 html {
- .magicpattern { 
   width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: repeat;
-  background-image: url("src/scripts/main.js");
-}
+  height: 500px;
+  width: 1000px;
+  background-image: url("soup.png");
+  background-size: 100vw 200px;
+  background-repeat: no-repeat;
+  background-position: top;
+  }
+    
 
-}
-
-title {
+.Welcome {
   text-align: center;
+  padding:30px;
 }
 
 .dog {
   color:red;
-  margin-top: 100px;
+  margin-top: 200px;
+  text-align:center;
 }
 
 .dean {
   text-align: center;
+}
+
+.soon {
+ display:inline-block;
+  padding: 30px;
+  text-align:center;
+  margin-left:75px;
+  border-style:solid;
+  border-color:black;
+}
+
+.chomp {
+  text-align: center;
+}
+
+.welcome {
+  text-align:center;
 }/*!
  * Pico CSS ✨ v2.0.6 (https://picocss.com)
  * Copyright 2019-2024 - Licensed under MIT
