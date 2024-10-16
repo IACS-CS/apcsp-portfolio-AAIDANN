@@ -11,3 +11,16 @@ html {
 }
 
 }
+
+title {
+  text-align: center;
+}
+
+.dog {
+  color:red;
+  margin-top: 100px;
+}
+
+.dean {
+  text-align: center;
+}
