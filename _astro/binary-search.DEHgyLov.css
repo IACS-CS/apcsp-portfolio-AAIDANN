@@ -31,11 +31,11 @@ html {
   text-align: center;
 }
 
-.soon {
+.animate__animated.animate__jello {
  display:inline-block;
   padding: 30px;
-  
-  margin-left:180px;
+  text-align:center;
+  margin-left:125px;
   border-style:solid;
   border-color:black;
   align-items: center;
@@ -47,8 +47,8 @@ html {
 
 
 
-.soon.animate__bounce {
-  --animate-duration: 2s;
+.animate__animated.animate__jello {
+  --animate-duration: 10s;
 }/*!
  * Pico CSS ✨ v2.0.6 (https://picocss.com)
  * Copyright 2019-2024 - Licensed under MIT
