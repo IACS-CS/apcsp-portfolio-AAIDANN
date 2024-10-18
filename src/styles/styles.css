@@ -48,5 +48,5 @@ html {
 
 
 .animate__animated.animate__jello {
-  --animate-duration: 30s;
+  --animate-duration: 3s;
 }
