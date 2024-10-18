@@ -2,8 +2,8 @@
 
 html {
   width: 100%;
-  background-image: url("soup.png");
-  background-size: 100vw 200px;
+  background-image: url("magic.png");
+  /*background-size: 100vw 200px;*/
   background-repeat: no-repeat;
   background-position: top;
   } 
@@ -22,7 +22,7 @@ html {
 }
 
 .dog {
-  color:red;
+  color:pink;
   margin-top: 200px;
   text-align:center;
 }
@@ -49,4 +49,14 @@ html {
 
 .animate__animated.animate__jello {
   --animate-duration: 3s;
+}
+
+.copyright {
+  margin-left: 130px;
+  font-size:10px
+}
+
+.acknowledge {
+  font-size: 10px;
+  margin-left: 20px;
 }
