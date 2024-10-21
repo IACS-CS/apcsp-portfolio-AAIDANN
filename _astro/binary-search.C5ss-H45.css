@@ -32,9 +32,9 @@ html {
 
 .animate__animated.animate__jello {
  display:inline-block;
-  padding: 30px;
+  padding:15px;
   text-align:center;
-  margin-left:125px;
+  margin-left:100px;
   border-style:solid;
   border-color:black;
   align-items: center;
@@ -50,7 +50,7 @@ html {
 }
 
 .copyright {
-  margin-left: 130px;
+  margin-left: 30px;
   font-size:10px
 }
 
