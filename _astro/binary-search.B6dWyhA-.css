@@ -45,7 +45,6 @@ html {
 }
 
 
-
 .animate__animated.animate__jello {
   --animate-duration: 3s;
 }
@@ -58,6 +57,10 @@ html {
 .acknowledge {
   font-size: 10px;
   margin-left: 20px;
+}
+
+.animate__animated.animate__rubberBand {
+--animate-duration: 3s;
 }
 /*!
  * Pico CSS ✨ v2.0.6 (https://picocss.com)
