@@ -2,7 +2,7 @@
 
 html {
   width: 100%;
-  background-image: url("magic.png");
+  background-image: url("./magic.png");
   background-repeat: no-repeat;
   background-position: top;
   } 
