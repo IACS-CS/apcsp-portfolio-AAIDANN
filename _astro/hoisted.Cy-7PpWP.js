@@ -15,7 +15,6 @@ var aos = {exports: {}};
 var aosExports = aos.exports;
 const Aos = /*@__PURE__*/getDefaultExportFromCjs(aosExports);
 
-console.log("What?");
 if (typeof window !== "undefined") {
   // Put code that runs ONLY in the browser here -- this is most likely where
   Aos.init();
